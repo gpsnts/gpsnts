@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=gpsnts&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=synthwave&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpsnts)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **gpsnts/gpsnts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
