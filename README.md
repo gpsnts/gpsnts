@@ -1,4 +1,4 @@
-- Stats! 😄
+## Stats! 😄
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=gpsnts&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=synthwave&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
