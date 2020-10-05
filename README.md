@@ -1,4 +1,4 @@
-## Contact! 😄
+## Links! 😄
 
 [![Linkedin](https://img.shields.io/static/v1?label=&style=flat-square&logo=linkedin&message=Linkedin&color=blue)](https://www.linkedin.com/in/gporto314/) [![Codewars](https://img.shields.io/static/v1?label=&style=flat-square&logo=Codewars&message=Codewars&color=424242)](https://www.codewars.com/users/gpsnts)
 
