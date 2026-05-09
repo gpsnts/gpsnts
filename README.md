@@ -14,4 +14,4 @@ Links:
 
 ![Cat Roll](cat_roll.gif)
 ![Cat Roll](cat_roll.gif)
-![Cat Roll](cat_roll.gif) \
+![Cat Roll](cat_roll.gif)
