@@ -1,4 +1,4 @@
-![Cool Cats](cool_cats.gif)
+
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
 
 <div style="font-family: 'Fira Code', monospace;">
